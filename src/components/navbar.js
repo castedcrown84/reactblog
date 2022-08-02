@@ -1,7 +1,7 @@
 const Navbar = () => {
     return ( 
         <nav className="navbar">
-            <h1>Ninja Dojo</h1>
+            <h1>Bible Dojo</h1>
 
             <div className="links">
                 <a href="/">Home</a>
@@ -12,3 +12,4 @@ const Navbar = () => {
 }
  
 export default Navbar;
+
