@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useHistory } from "react-router-dom";
 
 
 const Create = () => {
@@ -7,6 +8,7 @@ const Create = () => {
     const [body, setBody] = useState('')
     const [author, setAuthor] = useState('')
     const [isPending, setIsPending] = useState(false)
+    const history = useHistory()
 
     const handlesubmit = (e) => {
         e.preventDefault();
@@ -23,6 +25,8 @@ const Create = () => {
        }).then(() => {
         console.log('New Blog Added')
         setIsPending(false)
+        //redirects to homepage after blog is added
+        history.push('/')
        })
 
 
