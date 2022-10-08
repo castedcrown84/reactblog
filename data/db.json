@@ -1,16 +1,52 @@
 {
-    "blogs": [
-      {
-        "title": "The Trinity",
-        "body":"default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-        "author": "Rob",
-        "id": 1
-      },
-      {
-        "title": "Jesus is Lord",
-        "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-        "author": "Chris Samuel",
-        "id": 2
-      }
-    ]
-  }
+  "blogs": [
+    {
+      "title": "The Trinity",
+      "body": "The doctrine of the Trinity means that there is one God who eternally exists as three distinct Persons — the Father, Son, and Holy Spirit. Stated differently, God is one in essence and three in person. These definitions express three crucial truths: (1) the Father, Son, and Holy Spirit are distinct Persons, (2) each Person is fully God, (3) there is only one God.The Father, Son, and Holy Spirit are distinct Persons. The Bible speaks of the Father as God (Philippians 1:2), Jesus as God (Titus 2:13), and the Holy Spirit as God (Acts 5:3–4). Are these just three different ways of looking at God, or simply ways of referring to three different roles that God plays? The answer must be no, because the Bible also indicates that the Father, Son, and Holy Spirit are distinct Persons.",
+      "author": "Rob",
+      "id": 1
+    },
+    {
+      "title": "Jesus is Lord",
+      "body": "The statement “Jesus is Lord” means that Jesus is God. Jesus has “all authority in heaven and on earth” (Matthew 28:18). He is Lord of the Sabbath (Luke 6:5). He is “our only Sovereign and Lord” (Jude 1:4). He is, in fact, the Lord of lords (Revelation 17:14).Jesus referred to Himself as “Lord” many times (e.g., Luke 19:31; John 13:13). And when we compare the Old Testament with the New, we find several times when the “LORD” (Yahweh) of the Hebrew Bible is equated with the “Lord Jesus” by the apostles. For example, Psalm 34:8 says, “Taste and see that the LORD is good,” and that passage is alluded to in 1 Peter 2:3, except there Jesus is the “Lord” who is good. Isaiah 8:13 says that “the LORD Almighty is the one you are to regard as holy”; in 1 Peter 3:15 we are commanded, “In your hearts honor Christ the Lord as holy” (ESV). Amazingly, the Lord Jesus left His exalted position in heaven and came to earth to save us. In His Incarnation, He showed us what true meekness looks like (see Matthew 11:29). Just before His arrest, Jesus used His power and authority to teach us humility: “Now that I, your Lord and Teacher, have washed your feet, you also should wash one another’s feet” (John 13:14). The last will be first, according to our Lord (Matthew 19:30).",
+      "author": "Chris Samuel",
+      "id": 2
+    },
+    {
+      "title": "Eschatology",
+      "body": "Hyperbole and apocalyptic language should be considered when interpreting the text. ",
+      "author": "Rob",
+      "id": 3
+    },
+    {
+      "title": "Eschatology",
+      "body": "Hyperbole and apocalyptic language should be considered when interpreting the text. ",
+      "author": "Rob",
+      "id": 4
+    },
+    {
+      "title": "Poooh",
+      "body": "kjkajkfjkajfkjakj",
+      "author": "Chris Samuels",
+      "id": 5
+    },
+    {
+      "title": "hope",
+      "body": "seeeee",
+      "author": "Rob",
+      "id": 6
+    },
+    {
+      "title": "yooo",
+      "body": "fkjakfjkajk",
+      "author": "Tee",
+      "id": 7
+    },
+    {
+      "title": "hypostatic union",
+      "body": "kjakjfkakjfkj",
+      "author": "Leon",
+      "id": 8
+    }
+  ]
+}
